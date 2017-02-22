@@ -1,6 +1,6 @@
 ﻿### 宋婉菱 SUNG,WAN-LING
 ---
-![wanling](/blob/master/20170108.jpg)
+![wanling](http://w10.loxa.edu.tw/k4220/201701081.jpg)
 >  Use your smile to change the world. 
 Don't let the world change your smile.
 
@@ -14,7 +14,7 @@ Don't let the world change your smile.
 
 // 聯絡我 //
 
-![facebook](blob/master/201.JPG) <https://www.facebook.com/>
+![facebook](http://w10.loxa.edu.tw/k4220/201.JPG) <https://www.facebook.com/>
 
  
 
